@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom'
-import "./Cadastro.css";
+import "./cadastro.css";
 
 import logo from "./assets/img/logo.png";
 import catalogoImg from "./assets/img/catalogo.jpg";
